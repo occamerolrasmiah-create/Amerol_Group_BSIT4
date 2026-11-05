@@ -1,0 +1,11 @@
+# Mga private configuration files
+wp-config.php
+.env
+
+# Database backups
+*.sql
+*.sql.gz
+
+# Temporary WordPress files
+wp-content/cache/
+wp-content/upgrade/
