@@ -278,7 +278,7 @@ Meeting the Misamis Oriental Provincial Library.
 
 **Project documentation and written information.**
 
-**Email:** *occ.jumao-as.jorex@gmail.com*
+**Email:** *occ.chachero.michelle@gmail.com*
 
 ### Jorex
 
@@ -286,7 +286,7 @@ Meeting the Misamis Oriental Provincial Library.
 
 **Project coordination and team communication.**
 
-**Email:** *occ.chachero.michelle@gmail.com*
+**Email:** *occ.jumao-as.jorex@gmail.com*
 
 ---
 
